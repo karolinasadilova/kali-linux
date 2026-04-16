@@ -18,15 +18,15 @@
 
 | Command | Description | Example |
 |---------|-------------|---------|
-| ls | list files | ls |
-| ls -a | list all files (including hidden) | ls -a |
-| ls -l | long format listing | ls -l |
+| ls | list files | ls file.txt |
+| ls -a | list all files (including hidden) | ls -a file.txt |
+| ls -l | long format listing | ls -l file.txt |
 | mkdir | create folder | mkdir folderName |
-| touch | create file | touch file.txt |
+| touch | create file | touch fileName.txt |
 | cp | copy file | cp file1.txt file2.txt |
 | cp file /path | copy file to another folder | cp file.txt /home/root/Documents/ |
 | mv | move or rename file/folder | mv file.txt folder/ |
-| rm | remove file | rm file.txt |
+| rm | remove file | rm file |
 | rm -rf | remove folder and all contents | rm -rf folderName |
 
 ---
