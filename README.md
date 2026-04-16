@@ -1,4 +1,4 @@
-# Kali Linux
+# Kali Linux/basics
 
 ---
 
