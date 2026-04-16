@@ -16,18 +16,18 @@
 
 ## Files && Folders
 
-| Command | Description |
+| Command | Description | Example |
 |---------|-------------|
-| ls | list files |
-| ls -a | list all files |
-| ls -l | long format list files |
-| mkdir | create folder (mkdir folderName) |
-| touch | create file (touch file.txt) |
+| ls | list files | list files |
+| ls -a | list all files | |
+| ls -l | long format list files | |
+| mkdir | create folder (mkdir folderName) | |
+| touch | create file (touch file.txt) | |
 | cp | copy file (cp file1 file2) | cp password1.txt password2.txt...creates copy file and names it password2.txt |
 | cp file /path | copy file to another folder | cp file.txt /home/root/Documents...copies into that folder |
-| mv | move file or folder |
-| rm | remove file |
-| rm -rf | remove folder and content inside |
+| mv | move file or folder | |
+| rm | remove file | |
+| rm -rf | remove folder and content inside | |
 
 ---
 
