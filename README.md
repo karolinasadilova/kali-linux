@@ -14,7 +14,7 @@
 
 ---
 
-## Files & Folders
+## Files && Folders
 
 | Command | Description | Example |
 |---------|-------------|---------|
