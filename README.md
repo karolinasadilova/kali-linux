@@ -1,5 +1,4 @@
 # kali-linux
-# Kali Linux Commands Cheat Sheet
 
 ---
 
